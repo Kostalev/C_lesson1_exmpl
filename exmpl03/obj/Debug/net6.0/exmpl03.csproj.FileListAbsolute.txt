@@ -1,0 +1,15 @@
+C:\Users\Alexandr\Repo\less1\exmpl03\obj\Debug\net6.0\exmpl03.csproj.AssemblyReference.cache
+C:\Users\Alexandr\Repo\less1\exmpl03\obj\Debug\net6.0\exmpl03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandr\Repo\less1\exmpl03\obj\Debug\net6.0\exmpl03.AssemblyInfoInputs.cache
+C:\Users\Alexandr\Repo\less1\exmpl03\obj\Debug\net6.0\exmpl03.AssemblyInfo.cs
+C:\Users\Alexandr\Repo\less1\exmpl03\obj\Debug\net6.0\exmpl03.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\Repo\less1\exmpl03\bin\Debug\net6.0\exmpl03.exe
+C:\Users\Alexandr\Repo\less1\exmpl03\bin\Debug\net6.0\exmpl03.deps.json
+C:\Users\Alexandr\Repo\less1\exmpl03\bin\Debug\net6.0\exmpl03.runtimeconfig.json
+C:\Users\Alexandr\Repo\less1\exmpl03\bin\Debug\net6.0\exmpl03.dll
+C:\Users\Alexandr\Repo\less1\exmpl03\bin\Debug\net6.0\exmpl03.pdb
+C:\Users\Alexandr\Repo\less1\exmpl03\obj\Debug\net6.0\exmpl03.dll
+C:\Users\Alexandr\Repo\less1\exmpl03\obj\Debug\net6.0\refint\exmpl03.dll
+C:\Users\Alexandr\Repo\less1\exmpl03\obj\Debug\net6.0\exmpl03.pdb
+C:\Users\Alexandr\Repo\less1\exmpl03\obj\Debug\net6.0\exmpl03.genruntimeconfig.cache
+C:\Users\Alexandr\Repo\less1\exmpl03\obj\Debug\net6.0\ref\exmpl03.dll
